@@ -45,5 +45,5 @@ The following delegated permissions are required:
 
 #  Intune Groups Analyzer
 
-![Application](IntuneGroupAnalyzer/Screenshots/Main.jpg)
+![Application](IntuneGroupAnalyzer/Screenshots/Main1.jpg)
 
