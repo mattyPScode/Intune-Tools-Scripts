@@ -45,7 +45,7 @@ The following delegated permissions are required:
 
 #  Intune Groups Analyzer
 
-![Application](IntuneGroupAnalyzer/Screenshots/Main2.jpg)
+![Application](IntuneGroupAnalyzer/Screenshots/Main3.jpg)
 
 Graph API permissions: DeviceManagementConfiguration.Read.All,
       DeviceManagementApps.Read.All, DeviceManagementManagedDevices.Read.All,
